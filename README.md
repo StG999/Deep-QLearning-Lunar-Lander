@@ -14,7 +14,7 @@ The goal of the Lunar Lander environment is to land the lunar lander safely on t
 
 
 <a name="3.1"></a>
-### 3.1 Action Space
+### Action Space
 
 The agent has four discrete actions available:
 
@@ -33,7 +33,7 @@ Fire left engine = 3
 ```
 
 <a name="3.2"></a>
-### 3.2 Observation Space
+### Observation Space
 
 The agent's observation space consists of a state vector with 8 variables:
 
@@ -44,7 +44,7 @@ The agent's observation space consists of a state vector with 8 variables:
 * Two booleans, $l$ and $r$, that represent whether each leg is in contact with the ground or not.
 
 <a name="3.3"></a>
-### 3.3 Rewards
+### Rewards
 
 The Lunar Lander environment has the following reward system:
 
@@ -57,7 +57,7 @@ The Lunar Lander environment has the following reward system:
 * Firing the side engine is -0.03 points each frame.
 
 <a name="3.4"></a>
-### 3.4 Episode Termination
+### Episode Termination
 
 An episode ends (i.e the environment enters a terminal state) if:
 
