@@ -9,7 +9,7 @@ The goal of the Lunar Lander environment is to land the lunar lander safely on t
 <br>
 <figure>
   <img src = "images/lunar_lander.gif" width = 40%>
-      <figcaption style = "text-align: center; font-style: italic">Fig 1. Lunar Lander Environment.</figcaption>
+      <figcaption style = "text-align: center; font-style: italic">Lunar Lander Environment.</figcaption>
 </figure>
 
 
