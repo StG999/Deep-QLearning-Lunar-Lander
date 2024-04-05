@@ -1,5 +1,4 @@
-<a name="3"></a>
-## 3 - The Lunar Lander Environment
+## The Lunar Lander Environment
 
 In this project, I've used OpenAI's Gym Library. The Gym library provides a wide variety of environments for reinforcement learning. To put it simply, an environment represents a problem or task to be solved. Here, I have optimized the Lunar Lander environment problem using reinforcement learning.
 
